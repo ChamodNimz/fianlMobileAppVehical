@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "698819900073",
+    "firebase_url": "https://servicestation-b38d1.firebaseio.com",
+    "project_id": "servicestation-b38d1",
+    "storage_bucket": "servicestation-b38d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698819900073:android:a4719eaa7df591c9",
+        "android_client_info": {
+          "package_name": "com.example.acer.vehiclepersonalassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698819900073-n8f13mdt4h9rhpvueofhnqf8dahcdb0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.vehiclepersonalassistant",
+            "certificate_hash": "e43fa66f6ecf58f3dcf6bccfa6303588fa5e577f"
+          }
+        },
+        {
+          "client_id": "698819900073-c54jc5bbic9nir26a1dc0f38gn9n9ipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBfhHx8f8rPp-XZqNHVvfTwgnfDAvUtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698819900073-c54jc5bbic9nir26a1dc0f38gn9n9ipk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698819900073:android:a1ce5f179f4cdf9f",
+        "android_client_info": {
+          "package_name": "com.example.isuruliyanage.servicestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698819900073-mcd2lr7a0qi4p1o127h8131gjbk96stc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isuruliyanage.servicestation",
+            "certificate_hash": "12bfc0ae24222d9552275b2d194ff773de7c8ae0"
+          }
+        },
+        {
+          "client_id": "698819900073-c54jc5bbic9nir26a1dc0f38gn9n9ipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBfhHx8f8rPp-XZqNHVvfTwgnfDAvUtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698819900073-c54jc5bbic9nir26a1dc0f38gn9n9ipk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
